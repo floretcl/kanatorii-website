@@ -1,5 +1,5 @@
 ### Kana Torii; app iOS, official website
-by Clément Floret
+developed by Clément Floret
 
 
 
