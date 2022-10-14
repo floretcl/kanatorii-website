@@ -1,5 +1,6 @@
 ### Kana Torii, app iOS, official website
-Developed by Clément Floret
+
+Made with a modified bootstrap theme
 
 
 
