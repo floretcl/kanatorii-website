@@ -1,4 +1,6 @@
-# Kana Torii, app iOS, official website
+# Kana Torii app iOS, official website
+
+[Link to the website](https://kanatorii.netlify.app)
 
 Made with a modified bootstrap theme
 
